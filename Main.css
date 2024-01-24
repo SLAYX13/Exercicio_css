@@ -1,0 +1,26 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+header .cabecalho {
+    color: rgb(0, 0, 0);
+    background-color: rgb(78, 76, 76);
+}
+
+header ul li a {
+    text-decoration-line: none;
+    color:rgb(255, 245, 247);
+}
+.tecnologia {
+    background-color: rgba(151, 243, 235, 0.09);
+}
+
+.entreterimento {
+    background-color: rgba(255, 203, 107, 0.09);
+}
+
+body section #tecnologia {
+background-color: rgba(43, 202, 255, 0.137)
+}
